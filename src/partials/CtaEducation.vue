@@ -30,9 +30,9 @@
                 </p>
               </div> -->
 
-              <router-link
+              <a
                 class="btn text-white bg-green-500 hover:bg-green-600 group"
-                to="https://calendly.com/tadhealth/tad-intro"
+                href="https://calendly.com/tadhealth/tad-intro"
                 target="_blank"
               >
                 Book A Time
@@ -43,7 +43,7 @@
                   class="tracking-normal text-white group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-2"
                 >
                 </span>
-              </router-link>
+              </a>
             </div>
           </div>
         </div>
