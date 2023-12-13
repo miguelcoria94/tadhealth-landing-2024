@@ -16,7 +16,7 @@
           Platform Analytics: Your key to funding and impact
         </h3>
         <p
-          class="text-xl text-gray-300"
+          class="text-xl text-gray-300 text-center"
           data-aos="fade-up"
           data-aos-delay="200"
         >
@@ -25,11 +25,6 @@
           management system across the ecosystem of tools in one HIPAA + FERPA
           compliant space.
         </p>
-        <a
-          class="btn text-white bg-mint-500 hover:bg-mint-600 w-full mb-4 sm:w-auto sm:mb-0 mt-10"
-          href="/request-demo"
-          >Request Demo</a
-        >
       </div>
       <div>
         <!-- image -->
@@ -40,6 +35,13 @@
           data-aos="fade-up"
           data-aos-delay="400"
         />
+      </div>
+      <div class="max-w-4xl mx-auto text-left px-12 md:pb-16">
+        <a
+          class="btn text-white bg-mint-500 hover:bg-mint-600 w-full mb-4 sm:w-auto sm:mb-0 mt-10"
+          href="/request-demo"
+        >Request Demo</a
+        >
       </div>
     </div>
   </section>
