@@ -4,6 +4,7 @@ import Toaster from "@meforma/vue-toaster";
 import router from './router'
 import App from './App.vue'
 import Vuex from 'vuex'
+import VueGtag from "vue-gtag"
 
 import './css/style.scss'
 
@@ -13,6 +14,11 @@ app.use(head)
 app.use(Vuex)
 app.use(Toaster)
 app.use(router)
+app.use(VueGtag, {
+  config: {
+    id: import.meta.env.VITE_GTAG_ID,
+  },
+}, router)
 app.mount('#app')
 
 const store = new Vuex.Store({
