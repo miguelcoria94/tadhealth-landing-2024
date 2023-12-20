@@ -5,6 +5,7 @@ import router from './router'
 import App from './App.vue'
 import Vuex from 'vuex'
 import VueGtag from "vue-gtag"
+import { createGtm } from '@gtm-support/vue-gtm'
 
 import './css/style.scss'
 
@@ -19,6 +20,12 @@ app.use(VueGtag, {
     id: import.meta.env.VITE_GTAG_ID,
   },
 }, router)
+app.use(
+    createGtm({
+      id: import.meta.env.VITE_GTM_ID,
+      vueRouter: router
+    })
+)
 app.mount('#app')
 
 const store = new Vuex.Store({
