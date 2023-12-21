@@ -75,7 +75,7 @@
             class="flex items-center justify-center py-2 col-span-1 md:col-auto"
           >
             <img
-              class="max-w-full fill-current text-gray-300 "
+              class="max-w-full fill-current text-gray-300"
               width="120"
               height="24"
               src="../images/save.png"
@@ -130,7 +130,7 @@
             class="flex items-center justify-center py-2 col-span-1 md:col-auto"
           >
             <img
-              class="max-w-full fill-current text-gray-300 "
+              class="max-w-full fill-current text-gray-300"
               width="140"
               height="24"
               src="../images/smusd.png"
@@ -266,7 +266,7 @@
 </template>
 
 <script>
-import Image01 from "../images/headshot.png";
+import Image01 from "../images/avatar.jpg";
 import Image02 from "../images/testimonial-02.jpg";
 import Image03 from "../images/testimonial-03.jpg";
 
@@ -282,11 +282,11 @@ export default {
           img: Image01,
           alt: "Testimonial 01",
           quote:
-            "“ TadHealth has given us a way to substantially improve access points and based on my past experience with such a fragmented system pulling in extra help through a platform like this to mental health care professionals and programs is more important than ever. “",
-          name: "Alison-Norman Franks",
-          role: "Lead Wellness Counselor",
-          team: " BHUSD",
-          link: "https://bhhs.bhusd.org/",
+            "“We’re excited about using TadHealth at SMMUSD because it is going to help me as the counseling coordinator with streamlining our counseling consent process. Rather than a cumbersome back-and-forth with paper or email, the Tad Health platform is going to offer a seamless, secure, and easy-to-access way for parents and students to consent, and get reminded about counseling appointments.“",
+          name: "Shuli Lotan",
+          role: "LCSW, PPSC, Counseling Coordinator ",
+          team: " SMMUSD",
+          link: "https://www.smmusd.org/",
         },
         {
           img: Image02,

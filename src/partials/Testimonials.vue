@@ -25,7 +25,7 @@
               <div class="relative inline-flex flex-col mb-4">
                 <img
                   class="rounded-full"
-                  src="../images/june.jpg"
+                  src="../images/avatar.jpg"
                   width="48"
                   height="48"
                   alt="Testimonial 01"
@@ -42,20 +42,23 @@
               </div>
             </div>
             <blockquote class="text-lg text-gray-300 grow">
-              — TadHealth's platform is a low barrier avenue to share my writing
-              to a large and captivated audience. Since the creators are vetted,
-              I know I'm talking with folks that have expertise and passion for
-              improving the state of mental health. I'm looking forward to
-              continuing to use this platform to expand my network.
+              — We’re excited about using TadHealth at SMMUSD because it is
+              going to help me as the counseling coordinator with streamlining
+              our counseling consent process. Rather than a cumbersome
+              back-and-forth with paper or email, the Tad Health platform is
+              going to offer a seamless, secure, and easy-to-access way for
+              parents and students to consent, and get reminded about counseling
+              appointments.
             </blockquote>
             <div
               class="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700"
             >
-              <cite class="text-gray-200 not-italic">June Kissel</cite> -
+              <cite class="text-gray-200 not-italic">Shuli Lotan</cite> -
               <a
                 class="text-green-600 hover:text-gray-200 transition duration-150 ease-in-out"
                 href="#0"
-                >Content Creator</a
+              >
+                LCSW, PPSC, Counseling Coordinator</a
               >
             </div>
           </div>
