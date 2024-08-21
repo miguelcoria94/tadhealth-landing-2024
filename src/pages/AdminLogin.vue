@@ -135,7 +135,7 @@ export default {
         }
         
       } catch (e) {
-        this.$toast.error(`There was an error submitting your request!`, {
+        this.$toast.error(`There was an error submitting your request! ${e}`, {
           position: "top-left",
         });
       }

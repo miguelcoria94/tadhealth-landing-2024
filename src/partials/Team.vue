@@ -58,7 +58,7 @@
                 alt="Team member 02"
               />
               <h4 class="text-xl font-medium mb-1">Dr.Marissa Alert, PhD</h4>
-              <div class="text-gray-300 mb-1">Chief Medical Advisor</div>
+              <div class="text-gray-300 mb-1">Director of Clinical Innovation</div>
               <a
                 class="block text-green-600 hover:text-gray-200 transition duration-150 ease-in-out"
                 href="https://www.linkedin.com/in/marissadalert/"
@@ -128,18 +128,18 @@
             <div class="flex flex-col items-center">
               <img
                 class="rounded-full mb-4"
-                src="../images/ahmed.png"
+                src="../images/cam.jpeg"
                 width="120"
                 height="120"
                 alt="Team member 04"
               />
-              <h4 class="text-xl font-medium mb-1">Ahmed Makkawy</h4>
-              <div class="text-gray-300 mb-1">CPO</div>
+              <h4 class="text-xl font-medium mb-1">Cam Wilcox</h4>
+              <div class="text-gray-300 mb-1">Senior Product Manager</div>
               <a
                 class="block text-green-600 hover:text-gray-200 transition duration-150 ease-in-out"
-                href="https://www.linkedin.com/in/ahmedmakkawy/"
+                href="https://www.linkedin.com/in/camwilcox/"
                 target="_blank"
-                >@ahmedmakkawy</a
+                >@camwilcox</a
               >
             </div>
           </div>
@@ -223,6 +223,56 @@
           </div>
 
           <!-- 8th member -->
+          <div
+            class="sm:w-1/2 md:w-1/3 lg:w-1/4 py-4 sm:py-8 sm:px-3"
+            data-aos="fade-up"
+            data-aos-delay="600"
+            data-aos-anchor="[data-aos-id-team]"
+          >
+            <div class="flex flex-col items-center">
+              <img
+                class="rounded-full mb-4"
+                src="../images/jen.jpeg"
+                width="120"
+                height="120"
+                alt="Team member 07"
+              />
+              <h4 class="text-xl font-medium mb-1">Jen Athanacio, LMFT</h4>
+              <div class="text-gray-300 mb-1">Director of Product Education</div>
+              <a
+                class="block text-green-600 hover:text-gray-200 transition duration-150 ease-in-out"
+                href="https://www.linkedin.com/in/jen-athanacio-lmft-pps-010437231/"
+                target="_blank"
+                >@jenathanacio</a
+              >
+            </div>
+          </div>
+
+          <!-- 9th member -->
+          <div
+            class="sm:w-1/2 md:w-1/3 lg:w-1/4 py-4 sm:py-8 sm:px-3"
+            data-aos="fade-up"
+            data-aos-delay="600"
+            data-aos-anchor="[data-aos-id-team]"
+          >
+            <div class="flex flex-col items-center">
+              <img
+                class="rounded-full mb-4"
+                src="../images/elia.jpeg"
+                width="120"
+                height="120"
+                alt="Team member 07"
+              />
+              <h4 class="text-xl font-medium mb-1">Dr. Elia Bruggeman</h4>
+              <div class="text-gray-300 mb-1">Education Advisory Board</div>
+              <a
+                class="block text-green-600 hover:text-gray-200 transition duration-150 ease-in-out"
+                href="https://www.linkedin.com/in/dr-elia-bruggeman-5bb20a19/"
+                target="_blank"
+                >@eliabruggeman</a
+              >
+            </div>
+          </div>
         </div>
       </div>
     </div>
