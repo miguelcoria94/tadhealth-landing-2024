@@ -3,11 +3,17 @@
     class="col-span-full bg-white shadow-lg rounded-sm border border-slate-200 m-4"
   >
     <header class="px-5 py-4 border-b border-slate-100">
-      <h2 class="font-semibold text-slate-800">All Podcasts</h2>
+      <h2 class="font-semibold text-slate-800">All Articles</h2>
     </header>
     <div class="p-3">
+      <!-- Loader -->
+      <div v-if="loading" class="flex justify-center items-center py-4">
+        <div class="loader"></div>
+        <span>Loading...</span>
+      </div>
+
       <!-- Table -->
-      <div class="overflow-x-auto">
+      <div v-else class="overflow-x-auto">
         <table class="table-auto w-full">
           <!-- Table header -->
           <thead
@@ -19,6 +25,9 @@
               </th>
               <th class="p-2 whitespace-nowrap">
                 <div class="font-semibold text-left">Uploaded</div>
+              </th>
+              <th class="p-2 whitespace-nowrap">
+                <div class="font-semibold text-left">Actions</div>
               </th>
             </tr>
           </thead>
@@ -63,12 +72,18 @@ export default {
   data() {
     return {
       list: [],
+      loading: true,
     };
   },
   async created() {
-    const { data } = await getArticles();
-    this.list = data;
-    console.log(this.list);
+    try {
+      const { data } = await getArticles();
+      this.list = data;
+    } catch (error) {
+      console.error("Error fetching articles:", error);
+    } finally {
+      this.loading = false;
+    }
   },
   methods: {
     formattedDate(time) {
@@ -78,3 +93,24 @@ export default {
   },
 };
 </script>
+
+<!-- Add loader styles -->
+<style>
+.loader {
+  border: 4px solid rgba(0, 0, 0, 0.1);
+  border-left-color: #22c55e; /* Change color to match your theme */
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+</style>
