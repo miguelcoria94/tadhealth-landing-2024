@@ -7,7 +7,7 @@
     <!-- Content -->
     <div class="relative mb-5">
       <h1 class="text-2xl md:text-3xl text-slate-800 font-bold mb-1">
-        Manage Articles
+        Manage Blogs
       </h1>
       <p>Upload, edit, delete articles.</p>
     </div>
@@ -17,7 +17,7 @@
         <div class="w-full px-3">
           <router-link to="/admin/articles" class="block shrink-0">
           <button class="btn text-white bg-green-500 hover:bg-green-400 w-full">
-            Manage Articles
+            Manage Blogs
           </button>
           </router-link>
           

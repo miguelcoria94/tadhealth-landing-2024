@@ -194,7 +194,7 @@ export default {
           phone_number: this.phoneNumber,
           hear_about_us: this.ref,
         });
-        this.$router.push({ name: "Home" });
+        this.$router.push({ name: "RequestDemoSuccess" });
         this.$toast.success(`Your message has been sent!`, {
           position: "top-right",
         });

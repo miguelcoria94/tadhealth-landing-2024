@@ -49,6 +49,7 @@ import Analytics from "./pages/Analytics.vue";
 import Billing from "./pages/Billing.vue";
 import Platform from "./pages/Platform.vue";
 import Pricing from "./pages/Pricing.vue";
+import RequestDemoSuccess from "./pages/RequestDemoSuccess.vue";
 
 const routerHistory = createWebHistory()
 
@@ -168,6 +169,11 @@ const router = createRouter({
     {
       path: "/request-demo",
       component: RequestDemo,
+    },
+    {
+      path: "/request-demo-success",
+      component: RequestDemoSuccess,
+      name: "RequestDemoSuccess",
     },
     {
       path: "/verification",
