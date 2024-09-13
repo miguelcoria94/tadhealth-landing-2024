@@ -4,9 +4,9 @@
       <div class="pt-10 pb-12 md:pt-16 md:pb-20">
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-          <h2 class="h2 mb-4" data-aos="fade-up">
-            Boost productivity, reduce burnout, and enhance well-being through:
-          </h2>
+          <h3 class="h2 mb-4" data-aos="fade-up">
+            Streamline administrative tasks, boost student and parent engagement, and enhance mental health support—all within one platform.
+          </h3>
           <!-- <p
             class="text-xl text-gray-300"
             data-aos="fade-up"
@@ -59,17 +59,13 @@
                 stroke-linecap="square"
               />
             </svg>
-            <h4 class="h4 mb-2">Safety Standards</h4>
-            <p class="text-lg text-gray-300 text-center">
-              Above all we prioritize safety and security to provide quick and
-              easy access to mental health support tools.
-              <a
-                class="text-mint-600 hover:text-mint-500 transition duration-150 ease-in-out"
-                href="/tadhealth-platform#Safety"
-                target="_blank"
-                >Learn More.</a
-              >
-            </p>
+            <h4 class="h4 mb-2">FOR STUDENTS</h4>
+            <ul class="text-lg text-gray-300" style="list-style-type: disc;">
+                <li>Crisis support</li>
+                <li>Scheduling</li>
+                <li>Self-help resources</li>
+                <li>Forms and surveys</li>
+            </ul>
           </div>
 
           <!-- 2nd item -->
@@ -115,17 +111,13 @@
                 />
               </g>
             </svg>
-            <h4 class="h4 mb-2">Professional Management</h4>
-            <p class="text-lg text-gray-300 text-center">
-              Workflows don’t have to be in insecure spreadsheets or paper form
-              anymore because TadHealth does it for you.
-              <a
-                class="text-mint-600 hover:text-mint-500 transition duration-150 ease-in-out"
-                href="/tadhealth-platform#Coordination"
-                target="_blank"
-                >Learn More.</a
-              >
-            </p>
+            <h4 class="h4 mb-2">FOR COUNSELORS</h4>
+            <ul class="text-lg text-gray-300" style="list-style-type: disc;">
+                <li>Manage appointments</li>
+                <li>Manage referrals</li>
+                <li>Documentation & notes</li>
+                <li>Automated billing</li>
+            </ul>
           </div>
 
           <!-- 3rd item -->
@@ -160,16 +152,13 @@
                 stroke-linecap="square"
               />
             </svg>
-            <h4 class="h4 mb-2">Data Driven Tools</h4>
-            <p class="text-lg text-gray-300 text-center">
-              Our tools create real-time data so you can handle any surge in
-              demand for support. <a
-                class="text-mint-600 hover:text-mint-500 transition duration-150 ease-in-out"
-                href="/tadhealth-analytics"
-                target="_blank"
-                >Learn More.</a
-              >
-            </p>
+            <h4 class="h4 mb-2">FOR ADMINISTRATORS</h4>
+            <ul class="text-lg text-gray-300" style="list-style-type: disc;">
+                <li>Crisis analytics</li>
+                <li>Counselor analytics</li>
+                <li>Resource analytics</li>
+                <li>Resource management</li>
+            </ul>
           </div>
         </div>
       </div>
@@ -182,7 +171,7 @@
           <a
             class="btn text-white bg-mint-500 hover:bg-mint-600 w-full mb-4 sm:w-auto sm:mb-0"
             href="/request-demo"
-            >Request Demo</a
+            >Contact Us</a
           >
         </div>
       </div>
