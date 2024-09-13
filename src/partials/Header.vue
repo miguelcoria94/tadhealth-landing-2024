@@ -98,7 +98,51 @@
                   HIPAA and FERPA Scheduling
                 </p>
               </li> -->
-
+              <li
+                class="border border-gray-900 border-opacity-0 hover:border-mint-300 hover:bg-mint-100 hover:border-opacity-100 hover:bg-opacity-10 rounded-lg p-1 w-80 m-1"
+              >
+                <router-link
+                  to="/tadhealth-billing"
+                  class="text-sm text-gray-300 hover:text-green-600 font-bold flex py-2 px-4 leading-tight"
+                  ><i class="las la-money-check header-icon text-green-500"></i
+                  >TadHealth Billing (Coming Soon)
+                </router-link>
+                <p
+                  class="no-underline cursor-pointer font-medium text-sm text-gray-300 flex py-2 px-4 leading-tight"
+                >
+                  In-network reimbursement.
+                </p>
+              </li>
+              <li
+                class="border border-gray-900 border-opacity-0 hover:border-mint-300 hover:bg-mint-100 hover:border-opacity-100 hover:bg-opacity-10 rounded-lg p-1 w-80 m-1"
+              >
+                <router-link
+                  to="/tadhealth-referrals-scheduling"
+                  class="text-sm text-gray-300 hover:text-green-600 font-bold flex py-2 px-4 leading-tight"
+                  ><i class="las la-money-check header-icon text-green-500"></i
+                  >TadHealth Referrals & Scheduling
+                </router-link>
+                <p
+                  class="no-underline cursor-pointer font-medium text-sm text-gray-300 flex py-2 px-4 leading-tight"
+                >
+                  Lorem ipsum odor amet, consectetuer adipiscing elit.
+                </p>
+              </li>
+              <li
+                class="border border-gray-900 border-opacity-0 hover:border-mint-300 hover:bg-mint-100 hover:border-opacity-100 hover:bg-opacity-10 rounded-lg p-1 w-80 m-1"
+              >
+                <router-link
+                  to="/tadhealth-documentation"
+                  class="text-sm text-gray-300 hover:text-green-600 font-bold flex py-2 px-4 leading-tight"
+                  ><i class="las la-money-check header-icon text-green-500"></i
+                  >TadHealth Documentation
+                </router-link>
+                <p
+                  class="no-underline cursor-pointer font-medium text-sm text-gray-300 flex py-2 px-4 leading-tight"
+                >
+                  Lorem ipsum odor amet, consectetuer adipiscing elit.
+                </p>
+              </li>
               <li
                 class="border border-gray-900 border-opacity-0 hover:border-mint-300 hover:bg-mint-100 hover:border-opacity-100 hover:bg-opacity-10 rounded-lg p-1 w-80 m-1"
               >
@@ -118,15 +162,15 @@
                 class="border border-gray-900 border-opacity-0 hover:border-mint-300 hover:bg-mint-100 hover:border-opacity-100 hover:bg-opacity-10 rounded-lg p-1 w-80 m-1"
               >
                 <router-link
-                  to="/tadhealth-billing"
+                  to="/tadhealth-crisis-management"
                   class="text-sm text-gray-300 hover:text-green-600 font-bold flex py-2 px-4 leading-tight"
                   ><i class="las la-money-check header-icon text-green-500"></i
-                  >TadHealth Billing (Coming Soon)
+                  >TadHealth Crisis Management
                 </router-link>
                 <p
                   class="no-underline cursor-pointer font-medium text-sm text-gray-300 flex py-2 px-4 leading-tight"
                 >
-                  In-network reimbursement.
+                  Lorem ipsum odor amet, consectetuer adipiscing elit.
                 </p>
               </li>
             </DropdownOne>
@@ -195,7 +239,7 @@
                   Stay ahead of mental health trends.
                 </p>
               </li>
-              <li
+              <!-- <li
                 class="border border-gray-900 border-opacity-0 hover:border-mint-300 hover:bg-mint-100 hover:border-opacity-100 hover:bg-opacity-10 rounded-lg p-1 w-80 m-1"
               >
                 <router-link
@@ -209,7 +253,7 @@
                 >
                   Listen to the latest voices in mental health.
                 </p>
-              </li>
+              </li> -->
               <li
                 class="border border-gray-900 border-opacity-0 hover:border-mint-300 hover:bg-mint-100 hover:border-opacity-100 hover:bg-opacity-10 rounded-lg p-1 w-80 m-1"
               >
@@ -235,13 +279,13 @@
               </li> -->
             </DropdownOne>
 
-            <li>
+            <!-- <li>
               <router-link
                 to="/pricing"
                 class="text-gray-300 hover:text-gray-200 px-4 py-2 flex items-center transition duration-150 ease-in-out"
                 >Pricing</router-link
               >
-            </li>
+            </li> -->
 
             <DropdownOne title="About">
               <li
@@ -313,7 +357,7 @@
               <router-link
                 to="/request-demo"
                 class="btn-sm text-white bg-mint-500 hover:bg-mint-600 ml-3"
-                >Request a demo</router-link
+                >Get in Touch</router-link
               >
             </li>
           </ul>
@@ -415,6 +459,39 @@
                   </li> -->
                   <li class="py-2">
                     <router-link
+                      to="/tadhealth-billing"
+                      class="text-gray-300 hover:text-green-600 flex py-2 px-4 leading-tight"
+                    >
+                      <i
+                        class="las la-money-check header-icon text-green-500"
+                      ></i>
+                      TadHealth Billing (Coming Soon)
+                    </router-link>
+                  </li>
+                  <li class="py-2">
+                    <router-link
+                      to="/tadhealth-referrals-scheduling"
+                      class="text-gray-300 hover:text-green-600 flex py-2 px-4 leading-tight"
+                    >
+                      <i
+                        class="las la-money-check header-icon text-green-500"
+                      ></i>
+                      TadHealth Referrals & Scheduling
+                    </router-link>
+                  </li>
+                  <li class="py-2">
+                    <router-link
+                      to="/tadhealth-documentation"
+                      class="text-gray-300 hover:text-green-600 flex py-2 px-4 leading-tight"
+                    >
+                      <i
+                        class="las la-chart-bar header-icon text-green-500"
+                      ></i>
+                      TadHealth Documentation
+                    </router-link>
+                  </li>
+                  <li class="py-2">
+                    <router-link
                       to="/tadhealth-analytics"
                       class="text-gray-300 hover:text-green-600 flex py-2 px-4 leading-tight"
                     >
@@ -426,13 +503,13 @@
                   </li>
                   <li class="py-2">
                     <router-link
-                      to="/tadhealth-billing"
+                      to="/tadhealth-crisis-management"
                       class="text-gray-300 hover:text-green-600 flex py-2 px-4 leading-tight"
                     >
                       <i
-                        class="las la-money-check header-icon text-green-500"
+                        class="las la-chart-bar header-icon text-green-500"
                       ></i>
-                      TadHealth Billing (Coming Soon)
+                      TadHealth Crisis Management
                     </router-link>
                   </li>
                 </ul>
@@ -503,7 +580,7 @@
                     </router-link>
                   </li>
 
-                  <li class="py-2">
+                  <!-- <li class="py-2">
                     <router-link
                       to="/podcasts"
                       class="text-gray-300 hover:text-green-600 flex py-2 px-4 leading-tight"
@@ -513,7 +590,7 @@
                       ></i>
                       Podcasts
                     </router-link>
-                  </li>
+                  </li> -->
 
                   <li class="py-2">
                     <router-link
@@ -539,7 +616,7 @@
                 <router-link
                   to="/request-demo"
                   class="font-medium w-full inline-flex items-center justify-center border border-transparent px-4 py-2 my-2 rounded-sm text-white bg-mint-500 hover:bg-mint-600 transition duration-150 ease-in-out"
-                  >Request a demo</router-link
+                  >Get in Touch</router-link
                 >
               </li>
             </ul>
