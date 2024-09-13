@@ -20,12 +20,12 @@ app.use(VueGtag, {
     id: import.meta.env.VITE_GTAG_ID,
   },
 }, router)
-app.use(
-    createGtm({
-      id: import.meta.env.VITE_GTM_ID,
-      vueRouter: router
-    })
-)
+// app.use(
+//     createGtm({
+//       id: import.meta.env.VITE_GTM_ID,
+//       vueRouter: router
+//     })
+// )
 app.mount('#app')
 
 const store = new Vuex.Store({
