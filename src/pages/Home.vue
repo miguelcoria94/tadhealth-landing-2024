@@ -62,14 +62,11 @@
       <!-- Page sections -->
       <HeroHome />
 
-      
-
       <Process />
-      
+
       <PhonesHome />
       <!-- <FeaturesHome /> -->
       <PricingFeaturesTwo />
-      <Tabs />
       <Target />
 
       <Inter />
@@ -92,7 +89,6 @@ import PageIllustration from "./../partials/PageIllustration.vue";
 import HeroHome from "./../partials/HeroHome.vue";
 import Process from "./../partials/Process.vue";
 import FeaturesHome from "./../partials/FeaturesHome.vue";
-import Tabs from "./../partials/Tabs.vue";
 import Target from "./../partials/Target.vue";
 import Newsletter from "./../partials/Newsletter.vue";
 import Footer from "./../partials/Footer.vue";
@@ -111,7 +107,7 @@ export default {
     HeroHome,
     Process,
     FeaturesHome,
-    Tabs,
+
     Target,
     Newsletter,
     Footer,
@@ -122,6 +118,6 @@ export default {
     HomeCTA,
     PhonesHome,
     PricingFeaturesTwo,
-},
+  },
 };
 </script>

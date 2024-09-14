@@ -16,13 +16,13 @@
       <!-- Page sections -->
       <!-- <PlatformHero /> -->
       <PlatformFeature />
-      
+
       <!-- <PlatformFeatureTwo /> -->
       <!-- <PlatformFeatureThree /> -->
       <!-- <PlatformFeatureFour /> -->
       <PlatformFeatureFive />
-      
 
+      <Tabs />
       <!-- <ResourcesHero /> -->
       <ResourcesFeature />
       <ResourcesBlocks />
@@ -43,8 +43,6 @@
       <PlatformFeatureSix />
 
       <Newsletter />
-
-      
     </main>
 
     <!-- Site footer -->
@@ -68,13 +66,14 @@ import ResourcesFeature from "../partials/ResourcesFeature.vue";
 import ResourcesBlocks from "../partials/ResourcesBlocks.vue";
 import ResourcesFAQs from "../partials/ResourcesFAQs.vue";
 import Newsletter from "../partials/Newsletter.vue";
+import Tabs from "../partials/Tabs.vue";
 
-import CoordinationHero from '../partials/CoordinationHero.vue'
-import CoordinationFeatures from '../partials/CoordinationFeatures.vue'
-import CoordinationFeaturesTwo from '../partials/CoordinationFeaturesTwo.vue'
-import CoordinationFeaturesThree from '../partials/CoordinationFeaturesThree.vue'
-import CoordinationFeaturesFour from '../partials/CoordinationFeaturesFour.vue'
-import CoordinationFeaturesFooter from '../partials/CoordinationFeaturesFooter.vue'
+import CoordinationHero from "../partials/CoordinationHero.vue";
+import CoordinationFeatures from "../partials/CoordinationFeatures.vue";
+import CoordinationFeaturesTwo from "../partials/CoordinationFeaturesTwo.vue";
+import CoordinationFeaturesThree from "../partials/CoordinationFeaturesThree.vue";
+import CoordinationFeaturesFour from "../partials/CoordinationFeaturesFour.vue";
+import CoordinationFeaturesFooter from "../partials/CoordinationFeaturesFooter.vue";
 
 import SafetyHero from "../partials/SafetyHero.vue";
 import SafetyFeatures from "../partials/SafetyFeatures.vue";
@@ -111,6 +110,7 @@ export default {
     SafetyFeaturesThree,
     SafetyHeaderTwo,
     Footer,
+    Tabs,
     Newsletter,
   },
 };

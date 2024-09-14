@@ -56,7 +56,7 @@ export default {
     PageIllustration,
     PricingHero,
     PricingFeatures,
-    PricingFeaturesTwo,
+    // PricingFeaturesTwo,
     PricingFeaturesThree,
     PricingFAQs,
     PricingFooter,
