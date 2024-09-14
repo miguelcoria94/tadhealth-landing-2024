@@ -16,7 +16,7 @@
       <!-- Page sections -->
 
       <!-- <PricingHero /> -->
-      <PricingFeaturesTwo />
+      <!-- <PricingFeaturesTwo /> -->
       <Intergrations />
       <PricingCom />
       <CoordinationFeaturesTwo />
@@ -39,7 +39,7 @@ import Header from "../partials/Header.vue";
 import PageIllustration from "../partials/PageIllustration.vue";
 import PricingHero from "../partials/PricingHero.vue";
 import PricingFeatures from "../partials/PricingFeatures.vue";
-import PricingFeaturesTwo from "../partials/PricingFeaturesTwo.vue";
+// import PricingFeaturesTwo from "../partials/PricingFeaturesTwo.vue";
 import PricingFeaturesThree from "../partials/PricingFeaturesThree.vue";
 import PricingFAQs from "../partials/PricingFAQs.vue";
 import PricingFooter from "../partials/PricingFooter.vue";

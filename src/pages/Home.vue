@@ -62,10 +62,13 @@
       <!-- Page sections -->
       <HeroHome />
 
+      
+
       <Process />
       <Clients2 />
       <PhonesHome />
       <!-- <FeaturesHome /> -->
+      <PricingFeaturesTwo />
       <Tabs />
       <Target />
 
@@ -97,6 +100,7 @@ import Clients2 from "./../partials/Clients2.vue";
 import Inter from "./../partials/Inter.vue";
 import HomeCTA from "../partials/HomeCTA.vue";
 import PhonesHome from "../partials/PhonesHome.vue";
+import PricingFeaturesTwo from "../partials/PricingFeaturesTwo.vue";
 
 export default {
   name: "Home",
@@ -115,7 +119,8 @@ export default {
     Clients2,
     Inter,
     HomeCTA,
-    PhonesHome
+    PhonesHome,
+    PricingFeaturesTwo,
 },
 };
 </script>
