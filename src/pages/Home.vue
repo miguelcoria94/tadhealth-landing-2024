@@ -65,7 +65,7 @@
       
 
       <Process />
-      <Clients2 />
+      
       <PhonesHome />
       <!-- <FeaturesHome /> -->
       <PricingFeaturesTwo />
@@ -77,6 +77,7 @@
 
       <!-- <Newsletter /> -->
       <HomeCTA />
+      <Clients2 />
     </main>
 
     <!-- Site footer -->
