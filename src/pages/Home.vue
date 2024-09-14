@@ -67,7 +67,7 @@
       <PhonesHome />
       <!-- <FeaturesHome /> -->
       <PricingFeaturesTwo />
-      <Target />
+      <!-- <Target /> -->
 
       <Inter />
       <News />
