@@ -69,6 +69,8 @@
       <PricingFeaturesTwo />
       <!-- <Target /> -->
 
+      <BusinessCategories />
+
       <Inter />
       <News />
 
@@ -98,6 +100,7 @@ import Inter from "./../partials/Inter.vue";
 import HomeCTA from "../partials/HomeCTA.vue";
 import PhonesHome from "../partials/PhonesHome.vue";
 import PricingFeaturesTwo from "../partials/PricingFeaturesTwo.vue";
+import BusinessCategories from "../partials/BusinessCategories.vue";
 
 export default {
   name: "Home",
@@ -118,6 +121,7 @@ export default {
     HomeCTA,
     PhonesHome,
     PricingFeaturesTwo,
+    BusinessCategories,
   },
 };
 </script>
