@@ -17,7 +17,7 @@
 
       <!-- <PricingHero /> -->
       <!-- <PricingFeaturesTwo /> -->
-      <Intergrations />
+      <!-- <Intergrations /> -->
       <PricingCom />
       <CoordinationFeaturesTwo />
       <!-- <Faqs /> -->
@@ -45,7 +45,7 @@ import PricingFAQs from "../partials/PricingFAQs.vue";
 import PricingFooter from "../partials/PricingFooter.vue";
 import CoordinationFeaturesTwo from "../partials/CoordinationFeaturesTwo.vue";
 import Footer from "../partials/Footer.vue";
-import Intergrations from "../partials/Intergrations.vue";
+// import Intergrations from "../partials/Intergrations.vue";
 import Faqs from "../partials/Faqs.vue";
 import PricingCom from "../partials/PricingCom.vue";
 
@@ -62,7 +62,7 @@ export default {
     PricingFooter,
     CoordinationFeaturesTwo,
     Footer,
-    Intergrations,
+    // Intergrations,
     Faqs,
     PricingCom,
   },

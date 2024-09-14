@@ -1,10 +1,10 @@
 <template>
   <section class="relative">
     <!-- Bottom vertical line -->
-    <div
+    <!-- <div
       class="hidden md:block absolute w-0.5 h-8 bottom-10 bg-slate-200 left-1/2 -translate-x-1/2"
       aria-hidden="true"
-    ></div>
+    ></div> -->
 
     <div class="max-w-6xl mx-auto px-4 sm:px-6 pt-20 pb-12 md:pt-4 md:pb-10">
       <div class="py-12 md:py-20">
@@ -252,20 +252,20 @@
         </div>
 
         <!-- Integration boxes -->
-        <div
+        <!-- <div
           class="relative max-w-xs sm:max-w-md mx-auto md:max-w-6xl grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-6 mt-10 md:mt-20"
-        >
+        > -->
           <!-- Top vertical line -->
-          <div
+          <!-- <div
             class="hidden md:block absolute w-0.5 h-8 -top-16 -mt-2 bg-slate-200 left-1/2 -translate-x-1/2"
             aria-hidden="true"
           ></div>
           <div
             class="relative flex justify-center items-center bg-slate-200 aspect-square p-2"
             data-aos="fade-up"
-          >
+          > -->
             <!-- Inner lines -->
-            <div
+            <!-- <div
               class="hidden md:block absolute inset-0 w-[calc(100%+24px)] h-6 -top-10 left-1/2 -translate-x-1/2"
               aria-hidden="true"
             >
@@ -273,13 +273,13 @@
                 class="absolute w-0.5 h-full bg-slate-200 left-1/2 -translate-x-1/2"
               ></div>
               <div class="absolute w-1/2 h-0.5 bg-slate-200 right-0"></div>
-            </div>
+            </div> -->
             <!-- Circle -->
-            <div
+            <!-- <div
               class="bg-white w-20 h-20 rounded-full flex justify-center items-center"
-            >
+            > -->
               <!-- Icon -->
-              <img
+              <!-- <img
                 src="../images/integration-icon-01.svg"
                 width="36"
                 height="46"
@@ -291,9 +291,9 @@
             class="relative flex justify-center items-center bg-slate-200 aspect-square p-2"
             data-aos="fade-up"
             data-aos-delay="100"
-          >
+          > -->
             <!-- Inner lines -->
-            <div
+            <!-- <div
               class="hidden md:block absolute inset-0 w-[calc(100%+24px)] h-6 -top-10 left-1/2 -translate-x-1/2"
               aria-hidden="true"
             >
@@ -301,13 +301,13 @@
                 class="absolute w-0.5 h-full bg-slate-200 left-1/2 -translate-x-1/2"
               ></div>
               <div class="absolute w-full h-0.5 bg-slate-200"></div>
-            </div>
+            </div> -->
             <!-- Circle -->
-            <div
+            <!-- <div
               class="bg-white w-20 h-20 rounded-full flex justify-center items-center"
-            >
+            > -->
               <!-- Icon -->
-              <img
+              <!-- <img
                 src="../images/integration-icon-02.svg"
                 width="46"
                 height="46"
@@ -319,9 +319,9 @@
             class="relative flex justify-center items-center bg-slate-200 aspect-square p-2"
             data-aos="fade-up"
             data-aos-delay="200"
-          >
+          > -->
             <!-- Inner lines -->
-            <div
+            <!-- <div
               class="hidden md:block absolute inset-0 w-[calc(100%+24px)] h-6 -top-10 left-1/2 -translate-x-1/2"
               aria-hidden="true"
             >
@@ -329,13 +329,13 @@
                 class="absolute w-0.5 h-full bg-slate-200 left-1/2 -translate-x-1/2"
               ></div>
               <div class="absolute w-full h-0.5 bg-slate-200"></div>
-            </div>
+            </div> -->
             <!-- Circle -->
-            <div
+            <!-- <div
               class="bg-white w-20 h-20 rounded-full flex justify-center items-center"
-            >
+            > -->
               <!-- Icon -->
-              <img
+              <!-- <img
                 src="../images/integration-icon-03.svg"
                 width="43"
                 height="35"
@@ -348,9 +348,9 @@
             class="relative flex justify-center items-center bg-slate-200 aspect-square p-2"
             data-aos="fade-up"
             data-aos-delay="300"
-          >
+          > -->
             <!-- Inner lines -->
-            <div
+            <!-- <div
               class="hidden md:block absolute inset-0 w-[calc(100%+24px)] h-6 -top-10 left-1/2 -translate-x-1/2"
               aria-hidden="true"
             >
@@ -358,13 +358,13 @@
                 class="absolute w-0.5 h-full bg-slate-200 left-1/2 -translate-x-1/2"
               ></div>
               <div class="absolute w-full h-0.5 bg-slate-200"></div>
-            </div>
+            </div> -->
             <!-- Circle -->
-            <div
+            <!-- <div
               class="bg-white w-20 h-20 rounded-full flex justify-center items-center"
-            >
+            > -->
               <!-- Icon -->
-              <img
+              <!-- <img
                 src="../images/integration-icon-04.svg"
                 width="48"
                 height="46"
@@ -377,9 +377,9 @@
             class="relative flex justify-center items-center bg-slate-200 aspect-square p-2"
             data-aos="fade-up"
             data-aos-delay="400"
-          >
+          > -->
             <!-- Inner lines -->
-            <div
+            <!-- <div
               class="hidden md:block absolute inset-0 w-[calc(100%+24px)] h-6 -top-10 left-1/2 -translate-x-1/2"
               aria-hidden="true"
             >
@@ -387,13 +387,13 @@
                 class="absolute w-0.5 h-full bg-slate-200 left-1/2 -translate-x-1/2"
               ></div>
               <div class="absolute w-full h-0.5 bg-slate-200"></div>
-            </div>
+            </div> -->
             <!-- Circle -->
-            <div
+            <!-- <div
               class="bg-white w-20 h-20 rounded-full flex justify-center items-center"
-            >
+            > -->
               <!-- Icon -->
-              <img
+              <!-- <img
                 src="../images/integration-icon-05.svg"
                 width="49"
                 height="48"
@@ -406,9 +406,9 @@
             class="relative flex justify-center items-center bg-slate-200 aspect-square p-2"
             data-aos="fade-up"
             data-aos-delay="500"
-          >
+          > -->
             <!-- Inner lines -->
-            <div
+            <!-- <div
               class="hidden md:block absolute inset-0 w-[calc(100%+24px)] h-6 -top-10 left-1/2 -translate-x-1/2"
               aria-hidden="true"
             >
@@ -416,13 +416,13 @@
                 class="absolute w-0.5 h-full bg-slate-200 left-1/2 -translate-x-1/2"
               ></div>
               <div class="absolute w-1/2 h-0.5 bg-slate-200 left-0"></div>
-            </div>
+            </div> -->
             <!-- Circle -->
-            <div
+            <!-- <div
               class="bg-white w-20 h-20 rounded-full flex justify-center items-center"
-            >
+            > -->
               <!-- Icon -->
-              <img
+              <!-- <img
                 src="../images/integration-icon-06.svg"
                 width="48"
                 height="44"
@@ -431,7 +431,7 @@
               />
             </div>
           </div>
-        </div>
+        </div> -->
 
         <!-- <div class="max-w-4xl mx-auto text-center pt-12">
           <p

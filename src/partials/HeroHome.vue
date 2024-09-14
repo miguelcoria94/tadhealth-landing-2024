@@ -34,7 +34,7 @@
 
     <div class="max-w-6xl mx-auto px-4 sm:px-6">
       <!-- Hero content -->
-      <div class="pt-32 pb-8 md:pt-40 md:pb-8">
+      <div class="pt-8 pb-8 md:pt-8 md:pb-8">
         <!-- Section header -->
         <div class="text-center pb-6 md:pb-1">
           <h1
