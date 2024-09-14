@@ -26,15 +26,15 @@
               aria-hidden="true"
               class="absolute h-1 border-t border-dashed border-gray-700 hidden md:block"
               style="
-                width: calc(100% - 32px);
-                left: calc(50% + 48px);
-                top: 32px;
+                width: calc(100% - 40px);
+                left: calc(50% + 65px);
+                top: 60px;
               "
               data-aos="fade-in"
               data-aos-delay="200"
             ></div>
             <svg
-              class="w-16 h-16 mb-4"
+              class="w-32 h-32 mb-4"
               viewBox="0 0 64 64"
               xmlns="http://www.w3.org/2000/svg"
             >
@@ -60,7 +60,7 @@
               />
             </svg>
             <h4 class="h4 mb-2">FOR STUDENTS</h4>
-            <ul class="text-lg text-gray-300" style="list-style-type: disc;">
+            <ul class="text-lg text-gray-300 ml-10" style="list-style-type: disc;">
                 <li>Crisis support</li>
                 <li>Scheduling</li>
                 <li>Self-help resources</li>
@@ -78,15 +78,15 @@
               aria-hidden="true"
               class="absolute h-1 border-t border-dashed border-gray-700 hidden md:block"
               style="
-                width: calc(100% - 32px);
-                left: calc(50% + 48px);
-                top: 32px;
+                width: calc(100% - 40px);
+                left: calc(50% + 65px);
+                top: 60px;
               "
               data-aos="fade-in"
               data-aos-delay="400"
             ></div>
             <svg
-              class="w-16 h-16 mb-4"
+              class="w-32 h-32 mb-4"
               viewBox="0 0 64 64"
               xmlns="http://www.w3.org/2000/svg"
             >
@@ -112,7 +112,7 @@
               </g>
             </svg>
             <h4 class="h4 mb-2">FOR COUNSELORS</h4>
-            <ul class="text-lg text-gray-300" style="list-style-type: disc;">
+            <ul class="text-lg text-gray-300 ml-10" style="list-style-type: disc;">
                 <li>Manage appointments</li>
                 <li>Manage referrals</li>
                 <li>Documentation & notes</li>
@@ -127,7 +127,7 @@
             data-aos-delay="400"
           >
             <svg
-              class="w-16 h-16 mb-4"
+              class="w-32 h-32 mb-4"
               viewBox="0 0 64 64"
               xmlns="http://www.w3.org/2000/svg"
             >
@@ -153,7 +153,7 @@
               />
             </svg>
             <h4 class="h4 mb-2">FOR ADMINISTRATORS</h4>
-            <ul class="text-lg text-gray-300" style="list-style-type: disc;">
+            <ul class="text-lg text-gray-300 ml-10" style="list-style-type: disc;">
                 <li>Crisis analytics</li>
                 <li>Counselor analytics</li>
                 <li>Resource analytics</li>
