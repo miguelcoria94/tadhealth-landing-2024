@@ -158,8 +158,8 @@ function changeTab(index) {
               class="absolute before:absolute before:-inset-3 before:rounded-full before:[background:conic-gradient(from_180deg,transparent,theme(colors.blue.500))_border-box] before:border before:border-transparent before:[mask:linear-gradient(white_0_0)_padding-box,_linear-gradient(white_0_0)] before:[mask-composite:exclude_!important] before:animate-[spin_3s_linear_infinite]">
               <div class="animate-[breath_8s_ease-in-out_infinite_both]">
                 <div
-                  class="flex items-center justify-center w-24 h-24 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                  <img class="relative" src="../images/logo-01.svg" width="32" height="32" alt="Logo 01" />
+                  class="flex items-center justify-center w-24 h-24 bg-[#24717d] rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                  <img class="relative" src="../images/tadheart.png" width="48" height="48" alt="Logo 01" />
                 </div>
               </div>
             </div>
@@ -182,48 +182,48 @@ function changeTab(index) {
                 <div class="absolute -translate-x-[136px]">
                   <div class="animate-[breath_7s_ease-in-out_3s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-16 h-16 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-02.svg" width="23" height="22" alt="Logo 02" />
+                      class="flex items-center justify-center w-16 h-16 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 02" />
                     </div>
                   </div>
                 </div>
                 <div class="absolute translate-x-[136px]">
                   <div class="animate-[breath_7s_ease-in-out_3.5s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-16 h-16 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-03.svg" width="22" height="22" alt="Logo 03" />
+                      class="flex items-center justify-center w-16 h-16 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 03" />
                     </div>
                   </div>
                 </div>
                 <div class="absolute -translate-x-[216px] -translate-y-[82px]">
                   <div class="animate-[breath_6s_ease-in-out_3.5s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-04.svg" width="24" height="22" alt="Logo 04" />
+                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 04" />
                     </div>
                   </div>
                 </div>
                 <div class="absolute translate-x-[216px] -translate-y-[82px]">
                   <div class="animate-[breath_6s_ease-in-out_1.5s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-05.svg" width="25" height="25" alt="Logo 05" />
+                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 05" />
                     </div>
                   </div>
                 </div>
                 <div class="absolute translate-x-[216px] translate-y-[82px]">
                   <div class="animate-[breath_6s_ease-in-out_2s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-06.svg" width="20" height="18" alt="Logo 06" />
+                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 06" />
                     </div>
                   </div>
                 </div>
                 <div class="absolute -translate-x-[216px] translate-y-[82px]">
                   <div class="animate-[breath_6s_ease-in-out_2.5s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-07.svg" width="25" height="25" alt="Logo 07" />
+                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 07" />
                     </div>
                   </div>
                 </div>
@@ -231,7 +231,7 @@ function changeTab(index) {
                   <div class="animate-[breath_6s_ease-in-out_2s_infinite_both]">
                     <div
                       class="flex items-center justify-center w-12 h-12 bg-white rounded-full shadow-lg border border-gray-200/60">
-                      <img class="relative" src="../images/logo-08.svg" width="20" height="20" alt="Logo 08" />
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 08" />
                     </div>
                   </div>
                 </div>
@@ -239,7 +239,7 @@ function changeTab(index) {
                   <div class="animate-[breath_6s_ease-in-out_4s_infinite_both]">
                     <div
                       class="flex items-center justify-center w-12 h-12 bg-white rounded-full shadow-lg border border-gray-200/60">
-                      <img class="relative" src="../images/logo-09.svg" width="21" height="13" alt="Logo 09" />
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 09" />
                     </div>
                   </div>
                 </div>
@@ -264,48 +264,48 @@ function changeTab(index) {
                 <div class="absolute -translate-x-[136px]">
                   <div class="animate-[breath_7s_ease-in-out_3s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-16 h-16 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-03.svg" width="23" height="22" alt="Logo 03" />
+                      class="flex items-center justify-center w-16 h-16 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/google-logo.png" width="40" height="40" alt="Logo 03" />
                     </div>
                   </div>
                 </div>
                 <div class="absolute translate-x-[136px]">
                   <div class="animate-[breath_7s_ease-in-out_3.5s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-16 h-16 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-04.svg" width="22" height="22" alt="Logo 04" />
+                      class="flex items-center justify-center w-16 h-16 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 04" />
                     </div>
                   </div>
                 </div>
                 <div class="absolute -translate-x-[216px] -translate-y-[82px]">
                   <div class="animate-[breath_6s_ease-in-out_3.5s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-05.svg" width="24" height="22" alt="Logo 05" />
+                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 05" />
                     </div>
                   </div>
                 </div>
                 <div class="absolute translate-x-[216px] -translate-y-[82px]">
                   <div class="animate-[breath_6s_ease-in-out_1.5s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-02.svg" width="25" height="25" alt="Logo 02" />
+                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 02" />
                     </div>
                   </div>
                 </div>
                 <div class="absolute translate-x-[216px] translate-y-[82px]">
                   <div class="animate-[breath_6s_ease-in-out_2s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-07.svg" width="20" height="18" alt="Logo 07" />
+                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 07" />
                     </div>
                   </div>
                 </div>
                 <div class="absolute -translate-x-[216px] translate-y-[82px]">
                   <div class="animate-[breath_6s_ease-in-out_2.5s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-06.svg" width="25" height="25" alt="Logo 06" />
+                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 06" />
                     </div>
                   </div>
                 </div>
@@ -313,7 +313,7 @@ function changeTab(index) {
                   <div class="animate-[breath_6s_ease-in-out_2s_infinite_both]">
                     <div
                       class="flex items-center justify-center w-12 h-12 bg-white rounded-full shadow-lg border border-gray-200/60">
-                      <img class="relative" src="../images/logo-09.svg" width="20" height="20" alt="Logo 09" />
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 09" />
                     </div>
                   </div>
                 </div>
@@ -321,7 +321,7 @@ function changeTab(index) {
                   <div class="animate-[breath_6s_ease-in-out_4s_infinite_both]">
                     <div
                       class="flex items-center justify-center w-12 h-12 bg-white rounded-full shadow-lg border border-gray-200/60">
-                      <img class="relative" src="../images/logo-08.svg" width="21" height="13" alt="Logo 08" />
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 08" />
                     </div>
                   </div>
                 </div>
@@ -346,48 +346,48 @@ function changeTab(index) {
                 <div class="absolute -translate-x-[136px]">
                   <div class="animate-[breath_7s_ease-in-out_3s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-16 h-16 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-02.svg" width="23" height="22" alt="Logo 02" />
+                      class="flex items-center justify-center w-16 h-16 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 02" />
                     </div>
                   </div>
                 </div>
                 <div class="absolute translate-x-[136px]">
                   <div class="animate-[breath_7s_ease-in-out_3.5s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-16 h-16 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-03.svg" width="22" height="22" alt="Logo 03" />
+                      class="flex items-center justify-center w-16 h-16 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 03" />
                     </div>
                   </div>
                 </div>
                 <div class="absolute -translate-x-[216px] -translate-y-[82px]">
                   <div class="animate-[breath_6s_ease-in-out_3.5s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-04.svg" width="24" height="22" alt="Logo 04" />
+                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 04" />
                     </div>
                   </div>
                 </div>
                 <div class="absolute translate-x-[216px] -translate-y-[82px]">
                   <div class="animate-[breath_6s_ease-in-out_1.5s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-05.svg" width="25" height="25" alt="Logo 05" />
+                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 05" />
                     </div>
                   </div>
                 </div>
                 <div class="absolute translate-x-[216px] translate-y-[82px]">
                   <div class="animate-[breath_6s_ease-in-out_2s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-06.svg" width="20" height="18" alt="Logo 06" />
+                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 06" />
                     </div>
                   </div>
                 </div>
                 <div class="absolute -translate-x-[216px] translate-y-[82px]">
                   <div class="animate-[breath_6s_ease-in-out_2.5s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-07.svg" width="25" height="25" alt="Logo 07" />
+                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 07" />
                     </div>
                   </div>
                 </div>
@@ -395,7 +395,7 @@ function changeTab(index) {
                   <div class="animate-[breath_6s_ease-in-out_2s_infinite_both]">
                     <div
                       class="flex items-center justify-center w-12 h-12 bg-white rounded-full shadow-lg border border-gray-200/60">
-                      <img class="relative" src="../images/logo-08.svg" width="20" height="20" alt="Logo 08" />
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 08" />
                     </div>
                   </div>
                 </div>
@@ -403,7 +403,7 @@ function changeTab(index) {
                   <div class="animate-[breath_6s_ease-in-out_4s_infinite_both]">
                     <div
                       class="flex items-center justify-center w-12 h-12 bg-white rounded-full shadow-lg border border-gray-200/60">
-                      <img class="relative" src="../images/logo-09.svg" width="21" height="13" alt="Logo 09" />
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 09" />
                     </div>
                   </div>
                 </div>
@@ -428,48 +428,48 @@ function changeTab(index) {
                 <div class="absolute -translate-x-[136px]">
                   <div class="animate-[breath_7s_ease-in-out_3s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-16 h-16 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-03.svg" width="23" height="22" alt="Logo 03" />
+                      class="flex items-center justify-center w-16 h-16 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 03" />
                     </div>
                   </div>
                 </div>
                 <div class="absolute translate-x-[136px]">
                   <div class="animate-[breath_7s_ease-in-out_3.5s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-16 h-16 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-04.svg" width="22" height="22" alt="Logo 04" />
+                      class="flex items-center justify-center w-16 h-16 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 04" />
                     </div>
                   </div>
                 </div>
                 <div class="absolute -translate-x-[216px] -translate-y-[82px]">
                   <div class="animate-[breath_6s_ease-in-out_3.5s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-05.svg" width="24" height="22" alt="Logo 05" />
+                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 05" />
                     </div>
                   </div>
                 </div>
                 <div class="absolute translate-x-[216px] -translate-y-[82px]">
                   <div class="animate-[breath_6s_ease-in-out_1.5s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-02.svg" width="25" height="25" alt="Logo 02" />
+                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 02" />
                     </div>
                   </div>
                 </div>
                 <div class="absolute translate-x-[216px] translate-y-[82px]">
                   <div class="animate-[breath_6s_ease-in-out_2s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-07.svg" width="20" height="18" alt="Logo 07" />
+                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 07" />
                     </div>
                   </div>
                 </div>
                 <div class="absolute -translate-x-[216px] translate-y-[82px]">
                   <div class="animate-[breath_6s_ease-in-out_2.5s_infinite_both]">
                     <div
-                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-200/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
-                      <img class="relative" src="../images/logo-06.svg" width="25" height="25" alt="Logo 06" />
+                      class="flex items-center justify-center w-20 h-20 bg-white rounded-full shadow-lg shadow-black/[0.03] before:absolute before:inset-0 before:m-[8.334%] before:bg-gray-500/60 before:border before:border-gray-700/5 before:rounded-[inherit] before:[mask-image:linear-gradient(to_bottom,black,transparent)]">
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 06" />
                     </div>
                   </div>
                 </div>
@@ -477,7 +477,7 @@ function changeTab(index) {
                   <div class="animate-[breath_6s_ease-in-out_2s_infinite_both]">
                     <div
                       class="flex items-center justify-center w-12 h-12 bg-white rounded-full shadow-lg border border-gray-200/60">
-                      <img class="relative" src="../images/logo-09.svg" width="20" height="20" alt="Logo 09" />
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 09" />
                     </div>
                   </div>
                 </div>
@@ -485,7 +485,7 @@ function changeTab(index) {
                   <div class="animate-[breath_6s_ease-in-out_4s_infinite_both]">
                     <div
                       class="flex items-center justify-center w-12 h-12 bg-white rounded-full shadow-lg border border-gray-200/60">
-                      <img class="relative" src="../images/logo-08.svg" width="21" height="13" alt="Logo 08" />
+                      <img class="relative" src="../images/temp-logo.png" width="40" height="40" alt="Logo 08" />
                     </div>
                   </div>
                 </div>
