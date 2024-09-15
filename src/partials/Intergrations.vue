@@ -7,7 +7,7 @@
     ></div> -->
 
     <div class="max-w-6xl mx-auto px-4 sm:px-6 pt-20 pb-12 md:pt-4 md:pb-10">
-      <div class="py-12 md:py-20">
+      <div class="pt-40 md:pt-40">
         <!-- Section header -->
         <!-- <div class="max-w-3xl mx-auto text-center pb-12">
           <h1 class="h1 mb-4" data-aos="fade-up">Why TadHealth?</h1>
