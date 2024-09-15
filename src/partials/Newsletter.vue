@@ -1,11 +1,9 @@
 <template>
   <section>
-    <div class="mx-auto px-4 sm:px-6">
+    <div class="mx-auto pb-20 px-4 sm:px-6">
       <!-- CTA box -->
-      <div
-        class="relative bg-green-500 py-10 px-8 md:py-16 md:px-12"
-        data-aos="fade-up"
-      >
+      <div class="relative bg-green-500 py-40 px-8 md:py-48 md:px-12" data-aos="fade-up">
+
         <!-- Background illustration -->
         <div
           class="absolute right-0 top-0 -ml-40 pointer-events-none"
