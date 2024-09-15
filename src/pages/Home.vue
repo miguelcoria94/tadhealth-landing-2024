@@ -73,7 +73,7 @@
 
       <BusinessCategories />
 
-      <Inter />
+      <!-- <Inter /> -->
       <News />
 
       <!-- <Newsletter /> -->
@@ -100,7 +100,7 @@ import Newsletter from "./../partials/Newsletter.vue";
 import Footer from "./../partials/Footer.vue";
 import News from "./../partials/News.vue";
 import Clients2 from "./../partials/Clients2.vue";
-import Inter from "./../partials/Inter.vue";
+// import Inter from "./../partials/Inter.vue";
 import HomeCTA from "../partials/HomeCTA.vue";
 import PhonesHome from "../partials/PhonesHome.vue";
 import PricingFeaturesTwo from "../partials/PricingFeaturesTwo.vue";
@@ -122,7 +122,7 @@ export default {
     Head,
     News,
     Clients2,
-    Inter,
+    // Inter,
     HomeCTA,
     PhonesHome,
     PricingFeaturesTwo,
