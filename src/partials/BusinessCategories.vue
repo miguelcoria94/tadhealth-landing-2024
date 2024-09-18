@@ -125,33 +125,33 @@ function changeTab(index) {
             </div>
             <!-- Horizontal lines -->
             <div
-              class="absolute -z-10 inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-gray-200 to-transparent mix-blend-multiply">
+              class="absolute -z-10 inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-gray-100 to-transparent mix-blend-multiply">
             </div>
             <div
-              class="absolute -z-10 inset-x-0 bottom-0 h-px bg-gradient-to-r from-transparent via-gray-200 to-transparent mix-blend-multiply">
+              class="absolute -z-10 inset-x-0 bottom-0 h-px bg-gradient-to-r from-transparent via-gray-100 to-transparent mix-blend-multiply">
             </div>
             <div
               class="absolute -z-10 inset-x-[200px] top-1/2 h-px bg-gradient-to-r from-transparent via-blue-500/60 to-transparent mix-blend-multiply">
             </div>
             <div
-              class="absolute -z-10 inset-x-0 top-1/2 h-px bg-gradient-to-r from-transparent via-gray-200 to-transparent -translate-y-[82px] before:absolute before:inset-y-0 before:w-24 before:bg-gradient-to-r before:via-blue-500 before:animate-[line_10s_ease-in-out_infinite_both] mix-blend-multiply">
+              class="absolute -z-10 inset-x-0 top-1/2 h-px bg-gradient-to-r from-transparent via-gray-100 to-transparent -translate-y-[82px] before:absolute before:inset-y-0 before:w-24 before:bg-gradient-to-r before:via-blue-500 before:animate-[line_10s_ease-in-out_infinite_both] mix-blend-multiply">
             </div>
             <div
-              class="absolute -z-10 inset-x-0 top-1/2 h-px bg-gradient-to-r from-transparent via-gray-200 to-transparent translate-y-[82px] before:absolute before:inset-y-0 before:w-24 before:bg-gradient-to-r before:via-blue-500 before:animate-[line_10s_ease-in-out_infinite_5s_both] mix-blend-multiply">
+              class="absolute -z-10 inset-x-0 top-1/2 h-px bg-gradient-to-r from-transparent via-gray-100 to-transparent translate-y-[82px] before:absolute before:inset-y-0 before:w-24 before:bg-gradient-to-r before:via-blue-500 before:animate-[line_10s_ease-in-out_infinite_5s_both] mix-blend-multiply">
             </div>
             <!-- Diagonal lines -->
             <div
-              class="absolute -z-10 inset-x-[300px] top-1/2 h-px bg-gradient-to-r from-transparent via-gray-200 to-transparent rotate-[20deg] mix-blend-multiply">
+              class="absolute -z-10 inset-x-[300px] top-1/2 h-px bg-gradient-to-r from-transparent via-gray-100 to-transparent rotate-[20deg] mix-blend-multiply">
             </div>
             <div
-              class="absolute -z-10 inset-x-[300px] top-1/2 h-px bg-gradient-to-r from-transparent via-gray-200 to-transparent -rotate-[20deg] mix-blend-multiply">
+              class="absolute -z-10 inset-x-[300px] top-1/2 h-px bg-gradient-to-r from-transparent via-gray-100 to-transparent -rotate-[20deg] mix-blend-multiply">
             </div>
             <!-- Vertical lines -->
             <div
-              class="absolute -z-10 inset-y-0 left-1/2 w-px bg-gradient-to-b from-gray-200 to-transparent -translate-x-[216px] mix-blend-multiply">
+              class="absolute -z-10 inset-y-0 left-1/2 w-px bg-gradient-to-b from-gray-100 to-transparent -translate-x-[216px] mix-blend-multiply">
             </div>
             <div
-              class="absolute -z-10 inset-y-0 left-1/2 w-px bg-gradient-to-t from-gray-200 to-transparent translate-x-[216px] mix-blend-multiply">
+              class="absolute -z-10 inset-y-0 left-1/2 w-px bg-gradient-to-t from-gray-100 to-transparent translate-x-[216px] mix-blend-multiply">
             </div>
             <!-- Logos -->
             <div
