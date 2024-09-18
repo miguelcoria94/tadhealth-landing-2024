@@ -6,7 +6,6 @@
 
     <!-- Page content -->
     <main class="grow">
-      <p>I'm new</p>
 
       <!-- Page illustration -->
       <div class="relative max-w-6xl mx-auto h-0 pointer-events-none" aria-hidden="true">
