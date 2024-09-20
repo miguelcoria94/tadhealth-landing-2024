@@ -52,7 +52,7 @@ import Pricing from "./pages/Pricing.vue";
 import RequestDemoSuccess from "./pages/RequestDemoSuccess.vue";
 import AnalyticsNew from './pages/AnalyticsNew.vue';
 import CrisisManagement from './pages/CrisisManagement.vue';
-
+import BillingNew from "./pages/BillingNew.vue";
 
 const routerHistory = createWebHistory()
 
@@ -236,6 +236,10 @@ const router = createRouter({
     {
       path: "/tadhealth-billing",
       component: Billing,
+    },
+    {
+      path: "/tadhealth-billing-new",
+      component: BillingNew,
     },
     {
       path: "/tadhealth-crisis-management",

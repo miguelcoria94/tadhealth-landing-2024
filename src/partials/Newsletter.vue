@@ -2,7 +2,7 @@
   <section>
     <div class="mx-auto pb-20 px-4 sm:px-6">
       <!-- CTA box -->
-      <div class="relative bg-green-500 py-40 px-8 md:py-48 md:px-12" data-aos="fade-up">
+      <div class="relative bg-green-500 py-40 px-8 md:py-48 md:px-12" style="margin-left: -50vw; margin-right: -50vw; position: relative; left: 50%; right: 50%; width: 100vw;" data-aos="fade-up">
 
         <!-- Background illustration -->
         <div
