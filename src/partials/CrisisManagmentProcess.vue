@@ -64,7 +64,7 @@
                 />
               </g>
             </svg>
-            <p style="font-size: 1.275rem; font-weight: bold;" class="mb-2">One-Stop-Shop for Crisis Resources</p>
+            <p style="font-size: 1.275rem; font-weight: bold;" class="mb-2 text-center">One-Stop-Shop<br>for Crisis Resources</p>
             <p class="text-lg text-gray-300 text-center">
               Referrals can be sent directly to care professionals or assigned through the school administrator.
             </p>
