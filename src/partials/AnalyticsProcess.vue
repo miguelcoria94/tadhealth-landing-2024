@@ -202,6 +202,6 @@
 
 <script>
 export default {
-  name: "Process",
+  name: "AnalyticsProcess",
 };
 </script>

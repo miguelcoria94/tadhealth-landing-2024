@@ -51,6 +51,8 @@ import Platform from "./pages/Platform.vue";
 import Pricing from "./pages/Pricing.vue";
 import RequestDemoSuccess from "./pages/RequestDemoSuccess.vue";
 import AnalyticsNew from './pages/AnalyticsNew.vue';
+import CrisisManagement from './pages/CrisisManagement.vue';
+
 
 const routerHistory = createWebHistory()
 
@@ -234,6 +236,10 @@ const router = createRouter({
     {
       path: "/tadhealth-billing",
       component: Billing,
+    },
+    {
+      path: "/tadhealth-crisis-management",
+      component: CrisisManagement,
     },
     {
       path: "/pricing",
