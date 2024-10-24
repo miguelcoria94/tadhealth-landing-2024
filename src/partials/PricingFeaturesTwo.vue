@@ -1,18 +1,19 @@
 <template>
-  <section class="pt-64 relative">
-    <div class="max-w-3xl mx-auto text-center pb-4 md:pb-4">
+  <section class="pt-32 relative mb-32">
+    <div class="max-w-4xl mx-auto text-center mb-32">
       <!-- small span text in green 500 -->
       <!-- <span
             class="text-xs font-semibold text-mint-500 uppercase mb-4 inline-block"
             >TadHealth Safety</span
           > -->
       <h1 class="h2 mb-4" data-aos="fade-up">
-        Expanding wellness programs pays dividends.
+        Expanding wellness programs pays dividends, literally.
       </h1>
       <p class="text-xl text-gray-300" data-aos="fade-up" data-aos-delay="200">
-        The TadHealth platform and insights position you for funding and impact
-        in many different ways. Reach out to our team below to find the right
-        set of tools for your organization.
+        The TadHealth platform and insights integrate seamlessly to help you
+        manage, triage, deliver, and bill for all eligible mental health
+        services staff. We are built specifically for education and public
+        organizations to streamline workflows, staff, and services.
       </p>
     </div>
     <div class="max-w-6xl mx-auto px-4 sm:px-6">
@@ -35,13 +36,16 @@
                   >FOR EVERYONE
                 </span>
                 <h3 class="h3 font-cabinet-grotesk mb-3">
-                  How TadHealths’ pricing works.
+                  How our implementation works.
                 </h3>
-                <p class="text-lg text-gray-300 mb-8">
+                <!-- <p class="text-lg text-gray-300 mb-8">
                   We provide our solutions individually or in packages — tell us
                   which services you'd like to use and we'll send a custom
                   quote.
-                </p>
+                </p> -->
+
+<!-- image -->
+                <img src="../images/circle-art.png" alt="circle"  /> 
               </div>
             </div>
 
