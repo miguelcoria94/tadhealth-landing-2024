@@ -66,10 +66,9 @@
                       <!-- <div class="text-xs text-gray-300 uppercase">
                         May 2020 <span class="">·</span> Present
                       </div> -->
-                      <div class="font-[650]">Pick Your Core Tools</div>
+                      <div class="font-[650]">Pick Your Core Tools and connect reimbursement source</div>
                       <div class="text-sm text-gray-300">
-                        Get started with one or more tiers of support whether
-                        its, resources, safety, analytics or even coordination.
+                        Get started with one or more tiers of support and seamlessly connect resources, safety, analytics, and coordination tools in one place.
                       </div>
                     </div>
                   </div>
@@ -94,8 +93,7 @@
                       </div> -->
                       <div class="font-[650]">Choose How You Deploy</div>
                       <div class="text-sm text-gray-300">
-                        You can get started without any customizations or work
-                        with our team on a custom implementation.
+                       You can get started without any customizations or work with our team on a custom implementation.
                       </div>
                     </div>
                   </div>
@@ -120,11 +118,10 @@
                       </div> -->
                       <div class="font-[650]">
                         Seamlessly Integrate with your existing systems
+
                       </div>
                       <div class="text-sm text-gray-300">
-                        Link your pre-existing behavioral health partners or
-                        sync accross your existing information systems and
-                        student solutions.
+                        Link your pre-existing behavioral health partners or securely sync accross your existing information systems and student solutions.
                       </div>
                     </div>
                   </div>
@@ -151,9 +148,7 @@
                         Easy setup and user-friendly access
                       </div>
                       <div class="text-sm text-gray-300">
-                        You can get up and running with TadHealth in the same
-                        day you sign up and easily control the roll-out of the
-                        system to different members of your organization.
+                        You can get up and running with TadHealth in the same day you sign up and easily control the roll-out of the system to different members of your organization. 
                       </div>
                     </div>
                   </div>
