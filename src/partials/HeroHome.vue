@@ -1,5 +1,5 @@
 <template>
-  <section class="relative">
+  <section class="relative pt-32">
     <!-- Illustration behind hero content -->
 
     <div

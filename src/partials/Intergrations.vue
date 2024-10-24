@@ -6,8 +6,8 @@
       aria-hidden="true"
     ></div> -->
 
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 pt-20 pb-12 md:pt-4 md:pb-10">
-      <div class="pt-40 md:pt-40">
+    <div class="max-w-6xl mx-auto px-4">
+      <div class="pt-12 md:pt-12">
         <!-- Section header -->
         <!-- <div class="max-w-3xl mx-auto text-center pb-12">
           <h1 class="h1 mb-4" data-aos="fade-up">Why TadHealth?</h1>
@@ -21,7 +21,7 @@
             organizational wellness.
           </p>
         </div> -->
-        <div class="max-w-3xl mx-auto text-center pb-4 md:pb-4">
+        <!-- <div class="max-w-3xl mx-auto text-center pb-4 md:pb-4">
           <h2 class="h2 font-hkgrotesk mb-4">
             Let’s find the right wellness experience for your organization test test
           </h2>
@@ -30,7 +30,7 @@
             box. If you are looking for the right fit, reach out to our team for
             a free consultation.
           </p>
-        </div>
+        </div> -->
 
         <!-- Logo animation -->
         <div class="relative flex flex-col items-center p-16">

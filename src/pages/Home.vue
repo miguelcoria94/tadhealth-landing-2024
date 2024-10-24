@@ -60,9 +60,11 @@
       </div>
 
       <!-- Page sections -->
-      <Intergrations />
 
       <HeroHome />
+
+            <Intergrations />
+
 
       <Process />
 
