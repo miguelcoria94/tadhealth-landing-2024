@@ -105,12 +105,12 @@
                   to="/tadhealth-billing"
                   class="text-sm text-gray-300 hover:text-green-600 font-bold flex py-2 px-4 leading-tight"
                   ><i class="las la-money-check header-icon text-green-500"></i
-                  >TadHealth Billing (Coming Soon)
+                  >TadHealth Billing
                 </router-link>
                 <p
                   class="no-underline cursor-pointer font-medium text-sm text-gray-300 flex py-2 px-4 leading-tight"
                 >
-                  In-network reimbursement.
+                  In-network reimbursement for state & federal programs.
                 </p>
               </li>
               <li
@@ -125,7 +125,7 @@
                 <p
                   class="no-underline cursor-pointer font-medium text-sm text-gray-300 flex py-2 px-4 leading-tight"
                 >
-                  Lorem ipsum odor amet, consectetuer adipiscing elit.
+                  Streamlined interal and external coordination.
                 </p>
               </li>
               <li
@@ -140,7 +140,8 @@
                 <p
                   class="no-underline cursor-pointer font-medium text-sm text-gray-300 flex py-2 px-4 leading-tight"
                 >
-                  Lorem ipsum odor amet, consectetuer adipiscing elit.
+                  Automate case management every step of the way. 
+
                 </p>
               </li>
               <li
@@ -155,7 +156,7 @@
                 <p
                   class="no-underline cursor-pointer font-medium text-sm text-gray-300 flex py-2 px-4 leading-tight"
                 >
-                  Data Visibility and Protection.
+                  Data transparency and protection.
                 </p>
               </li>
               <li
@@ -170,7 +171,7 @@
                 <p
                   class="no-underline cursor-pointer font-medium text-sm text-gray-300 flex py-2 px-4 leading-tight"
                 >
-                  Lorem ipsum odor amet, consectetuer adipiscing elit.
+                  Enhanced emergency tools and protocols. 
                 </p>
               </li>
             </DropdownOne>
@@ -465,7 +466,7 @@
                       <i
                         class="las la-money-check header-icon text-green-500"
                       ></i>
-                      TadHealth Billing (Coming Soon)
+                      TadHealth Billing 
                     </router-link>
                   </li>
                   <li class="py-2">
