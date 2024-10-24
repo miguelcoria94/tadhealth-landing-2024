@@ -227,7 +227,7 @@ const router = createRouter({
     },
     {
       path: "/tadhealth-analytics",
-      component: Analytics,
+      component: AnalyticsNew,
     },
     {
       path: "/tadhealth-analytics-new",
@@ -235,7 +235,7 @@ const router = createRouter({
     },
     {
       path: "/tadhealth-billing",
-      component: Billing,
+      component: BillingNew,
     },
     {
       path: "/tadhealth-billing-new",
