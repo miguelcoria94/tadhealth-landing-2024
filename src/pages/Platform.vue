@@ -17,6 +17,7 @@
       <!-- <PlatformHero /> -->
       <PlatformFeature />
 
+      <PhonesHome />
       <!-- <PlatformFeatureTwo /> -->
       <!-- <PlatformFeatureThree /> -->
       <!-- <PlatformFeatureFour /> -->
@@ -67,6 +68,7 @@ import ResourcesFeature from "../partials/ResourcesFeature.vue";
 import ResourcesBlocks from "../partials/ResourcesBlocks.vue";
 import ResourcesFAQs from "../partials/ResourcesFAQs.vue";
 import Newsletter from "../partials/Newsletter.vue";
+import PhonesHome from "../partials/PhonesHome.vue";
 import Tabs from "../partials/Tabs.vue";
 
 import CoordinationHero from "../partials/CoordinationHero.vue";
@@ -109,6 +111,7 @@ export default {
     SafetyFeatures,
     SafetyFeaturesTwo,
     SafetyFeaturesThree,
+    PhonesHome,
     SafetyHeaderTwo,
     Footer,
     Tabs,

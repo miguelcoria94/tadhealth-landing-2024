@@ -68,7 +68,7 @@
 
       <Process />
 
-      <PhonesHome />
+      
       <!-- <FeaturesHome /> -->
       <PricingFeaturesTwo />
       <!-- <Target /> -->
