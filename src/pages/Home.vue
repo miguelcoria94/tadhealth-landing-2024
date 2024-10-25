@@ -76,11 +76,12 @@
       <!-- <BusinessCategories /> -->
 
       <Inter />
+        <Clients2 />
       <News />
 
       <!-- <Newsletter /> -->
       <HomeCTA />
-      <Clients2 />
+    
     </main>
 
     <!-- Site footer -->

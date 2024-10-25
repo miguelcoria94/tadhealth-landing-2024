@@ -1,10 +1,10 @@
 <template>
   <section>
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 mt-32">
-      <div class="pb-12 md:pb-20">
+    <div class="p-12 mt-12 bg-green-500 shadow-2xlf ">
+      <div class="">
         <!-- CTA box -->
         <div
-          class="rounded py-10 px-8 md:py-16 md:px-12 shadow-2xl bg-green-500"
+          class="rounded py-10 px-8 md:py-16 md:px-12 "
           data-aos="zoom-y-out"
         >
           <div class="flex flex-col lg:flex-row justify-between items-center">

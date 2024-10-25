@@ -1,5 +1,5 @@
 <template>
-  <section class="">
+  <section class="mt-12">
     <div class="py-12 md:py-20">
       <!-- Section header -->
       <div class="max-w-4xl mx-auto text-center pb-12 md:pb-16">
@@ -20,6 +20,36 @@
               class="opacity-40 group-hover:opacity-100 transform duration-500 ease-in-out"
               src="../images/save.png"
               alt="Client 01"
+            />
+          </div>
+
+          <div
+            class="swiper-slide !h-20 !w-20 rounded-2xl flex items-center justify-center group mt-4"
+          >
+            <img
+              class="opacity-40 group-hover:opacity-100 transform duration-500 ease-in-out"
+              src="../images/albany.png"
+              alt="Client 02"
+            />
+          </div>
+
+          <div
+            class="swiper-slide !h-20 !w-20 pl-1 pr-1 mt-2 rounded-2xl flex items-center justify-center group"
+          >
+            <img
+              class="opacity-40 group-hover:opacity-100 transform duration-500 ease-in-out"
+              src="../images/orange.png"
+              alt="Client 02"
+            />
+          </div>
+
+          <div
+            class="swiper-slide !h-16 mt-6 !w-16 rounded-2xl flex items-center justify-center group"
+          >
+            <img
+              class="opacity-40 group-hover:opacity-100 transform duration-500 ease-in-out"
+              src="../images/nevada.png"
+              alt="Client 02"
             />
           </div>
           <div
