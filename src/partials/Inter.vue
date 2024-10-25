@@ -3,7 +3,7 @@
     class="bg-image bg-cover bg-no-repeat bg-center mt-10 mb-10"
     
   >
-    <div class="max-w-6xl bg-image bg-cover bg-no-repeat bg-right mx-auto px-4 sm:px-6 rounded-md shadow-md " style="background-image: url(https://i.ibb.co/Z69mDMm/intergration.png)">
+    <div class=" bg-image bg-cover bg-no-repeat bg-right mx-auto px-4 sm:px-6 rounded-md shadow-md " style="background-image: url(https://i.ibb.co/9nKNch0/new-banner.png); height: 500px;">
       <div class="py-12 md:py-20">
         <!-- Items -->
         <div>
